@@ -11,10 +11,10 @@ Located in the **heart of this incredible city of Hyderabad**, Shadab Hotel is t
 
 ### Directions to get to Hotel Shadab from Airport
 
-1.The airport closest to Shadab Hotel is **Begumpet Airport** .
-2.To get to shadab from airport , take a shuttle  no.71 outside the airport and getdown at amberpet.
-3.Get into a sharing auto which will cost around rs.20/- and take a ticket to shabad hotel.
-4.The sharing auto will arrive just ouside the hotel.
+1. The airport closest to Shadab Hotel is **Begumpet Airport** .
+2. To get to shadab from airport , take a shuttle  no.71 outside the airport and getdown at amberpet.
+3. Get into a sharing auto which will cost around rs.20/- and take a ticket to shabad hotel.
+4. The sharing auto will arrive just ouside the hotel.
 
 **Food items at Hotel Shadaab.**
 
