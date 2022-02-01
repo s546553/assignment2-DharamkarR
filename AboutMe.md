@@ -4,4 +4,4 @@ Hi am Abhishek , I from Hyderabad in India.I was born and brougth up in Hyderbad
 
 ![Abhishek - భారత్ మాతాకీ జై!](https://github.com/s546553/assignment2-DharamkarR/blob/main/pp.jpg?raw=true"ok")
 
-My Image Abhishek - భారత్ మాతాకీ జై!  **[About Me](https://github.com/s546553/assignment2-DharamkarR/blob/main/pp.jpg?raw=true)**.
+My Image **[Abhishek - భారత్ మాతాకీ జై!](https://github.com/s546553/assignment2-DharamkarR/blob/main/pp.jpg?raw=true)**.
