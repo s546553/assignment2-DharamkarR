@@ -31,5 +31,24 @@ Located in the **heart of this incredible city of Hyderabad**, Shadab Hotel is t
 - Chicken Fried Rice
 - Chicken Chilli
 - Chicken Shawarma
+- Sheerkurma
+- Jai Balayya
+- AM PM Balyya Babu CM
 
 Link to AboutMe.md **[About Me](https://github.com/s546553/assignment2-DharamkarR/blob/main/AboutMe.md)**.
+
+---
+## Recommended sports
+
+In recent decades, sport as a social practice has become relevant in many different fields: in health, economy, politics, education, work and leisure. The importance of sport transcends the confines of the sports field. Sport involves not only organization but also organizing. Sport is about organizing collective efforts and performance. Sport is about managing excellence, coaching and developing tactics as well as strategies. Sport also has its own mechanisms of organizing social differences. The competitive aspects of sport imply practices of in- and exclusion.
+
+
+| Sport / Activity |  Location   | Amount |
+| ---------------- | ----------  | ------ |
+|     Cricket      | LB Stadium  |   $10  |
+|    VolleyBall    | AB Stadium  |   $20  |
+|    Badminton     | Ram Stadium |   $30  |
+|    BasketBall    | Telangana   |   $40  |
+
+
+
