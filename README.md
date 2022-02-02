@@ -35,7 +35,6 @@ Located in the **heart of this incredible city of Hyderabad**, Shadab Hotel is t
 - Jai Balayya
 - AM PM Balyya Babu CM
 
-Link to AboutMe.md **[About Me](https://github.com/s546553/assignment2-DharamkarR/blob/main/AboutMe.md)**.
 
 ---
 ## Recommended sports
@@ -141,7 +140,4 @@ struct LCA {
 [Code Source](https://cp-algorithms.com/graph/lca.html)
 
 [click hereto find about me](https://github.com/s546553/assignment2-DharamkarR/blob/main/AboutMe.md)
-
-
-
-
+Link to AboutMe.md **[About Me](https://github.com/s546553/assignment2-DharamkarR/blob/main/AboutMe.md)**.
