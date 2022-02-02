@@ -55,7 +55,8 @@ In recent decades, sport as a social practice has become relevant in many differ
 ## Pithy Quotes
 
 > AC Cooler Balayya babu ruler - Jai NTR
-> HeroHonda splendor balayya babu thunder  - Jai NTR
+>
+> HeroHonda splendor balayya babu thunder  - Jai NTRs
 
 
 
