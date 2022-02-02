@@ -50,5 +50,12 @@ In recent decades, sport as a social practice has become relevant in many differ
 |    Badminton     | Ram Stadium |   $30  |
 |    BasketBall    | Telangana   |   $40  |
 
+---
+
+## Pithy Quotes
+
+> AC Cooler Balayya babu ruler - Jai NTR
+> HeroHonda splendor balayya babu thunder  - Jai NTR
+
 
 
