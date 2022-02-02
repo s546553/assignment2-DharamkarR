@@ -63,7 +63,9 @@ In recent decades, sport as a social practice has become relevant in many differ
 ## Lowest Common Ancestor
 
 > We will discuss the Lowest Common Ancestor code.
+
 [Click here to find the algorithm full description](https://cp-algorithms.com/graph/lca.html)
+
 Below is the code for the alogorithm
 
 ```
