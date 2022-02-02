@@ -57,6 +57,8 @@ In recent decades, sport as a social practice has become relevant in many differ
 > “You are what you believe in. You become that which you believe you can become” ― Bhagavad Gita
 >
 > “Through selfless service, you will always be fruitful and find the fulfillment of your desires” ― Bhagavad Gita
+>
+
 
 
 
