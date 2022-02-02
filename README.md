@@ -54,9 +54,9 @@ In recent decades, sport as a social practice has become relevant in many differ
 
 ## Pithy Quotes
 
-> AC Cooler Balayya babu ruler - Jai NTR
+> “You are what you believe in. You become that which you believe you can become” ― Bhagavad Gita
 >
-> HeroHonda splendor balayya babu thunder  - Jai NTRs
+> “Through selfless service, you will always be fruitful and find the fulfillment of your desires” ― Bhagavad Gita
 
 
 
