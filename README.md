@@ -44,7 +44,7 @@ In recent decades, sport as a social practice has become relevant in many differ
 
 
 | Sport / Activity |  Location   | Amount |
-| ---------------- | ----------  | ------ |
+| :--------------- | :---------: | -----: |
 |     Cricket      | LB Stadium  |   $10  |
 |    VolleyBall    | AB Stadium  |   $20  |
 |    Badminton     | Ram Stadium |   $30  |
